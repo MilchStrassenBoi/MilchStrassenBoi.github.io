@@ -1,0 +1,326 @@
+{
+    "textDE":[
+        {
+            "titel":"Das bin ich",
+            "content":[
+                {
+                    "header": "<Hallo Welt!>",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"Ich bin Tim Schäfer, 23 Jahre alt, studiere momentan Medieninformatik an der Universität zu Köln und beende mein Studium im Juni 2024.<br><br> Außerhalb meines Studiums engagiere ich mich seit fünf Jahren ehrenamtlich bei der ökumenischen Familienwerkstadt Neu-HöVi, wo ich Veranstaltungen für Kinder/Jugendliche mit organisiere und ausführe. In einem aktuellen Projekt arbeite ich mit an einer Jugendbewegung in Griechenland. Im Jahr 2023 war ich bereits vor Ort und habe die Partnerorganisation kennen gelernt und wir haben zusammen ein Konzept ausgearbeitet.<br><br> Nach meinem Schulabschluss habe ich ein BFD absolviert und war für eineinhalb Monaten in Südafrika. Dort habe ich zusammen mit südafrikanischen Jugendlichen Projekte für Kinder geplant und ausgeführt. Durch mein Studium besitze ich die Grundlagen der Programmiersprache „JAVA“ und da ich in meiner Freizeit Computerspiel programmiere auch Grundkenntnisse der Programmiersprache „C#“. <br><br>In meiner Freizeit gehe ich vielen Kreativen Projekten nach und probiere mich aus in Videoschnitt, Zeichen, Tonbearbeitung, Musikproduktion, Webseitdesign sowie programmieren/gestallten von Computerspielen."
+                }
+            ]
+        },
+        {
+            "titel":"Universitäts Projekte",
+            "content":[
+                {
+                    "header": "Digital Flattheatre - Mein Bachelorproject",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/YzjyevCtdVQ?si=CFckS-lSGICfKPBq",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | Forschungssoftware]<br><br>Diese Forschungssoftware wurde im Rahmen meiner Bachelorarbeit 'BLA BLA' entwickelt, die von Prof. Dr. O. Eide und E. Türkoglu betreut wurde. Dieses Softwaresystem ermöglicht es, Modelle von Bühnenbildern in einem dreidimensionalen Raum zu kontextualisieren. Es besteht die Möglichkeit, das Modell aus verschiedenen Perspektiven zu betrachten und verschiedene Lichtverhältnisse zu regulieren. Die Daten / Modelle zur Erstellung der Beispielkulissen im System wurden von C. Lautenschlaeger von der Theaterwissenschaftlichen Sammlung (TWS, Universität zu Köln) zur Verfügung gestellt. Um das Projekt umzusetzen habe ich die Unity-Engine verwendet."
+                },
+                {
+                    "header": "Mixed Up Museum",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" :"https://www.youtube.com/embed/GKHINn_tpnY?si=yXpRYlg872EXpDOK",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | Serious Game]<br><br>Das Computerspiel 'Mix Up Museum' wurde im Rahmen des Seminars '‘That belongs in a museum!‘ - Creating Archaeogames from idea to release' entwickelt. Ziel des Spiels ist es, archäologische Inhalte spielerisch zu vermitteln, indem ein ganzes Museum 'auf dem Kopf steht' und die Spielerinnen und Spieler als Nachtwächter agieren, um die alte Ordnung wiederherzustellen. Um das Projekt umzusetzen, haben wir die Unity-Engine verwendet.<br><br>      Die Herausforderung bestand darin, gemeinsam mit Archäologiestudierenden ein Spiel zu entwickeln, das authentisches Wissen vermittelt und das Leben von Archäologinnen und Archäologen realistisch darstellt. Hierbei wurde bewusst auf eine korrekte Darstellung und Realitätsnähe geachtet, da Spiele, wie Tomb Raider, die archäologische Praktiken oft falsch wiedergeben.<br><br>      Meine Hauptaufgaben umfassten das Entwerfen des Spielkonzepts, das Programmieren im dreidimensionalen Raum, die Integrieren der entwickelten Komponenten meiner Gruppenmitglieder, sowie das Design der 2D-Elemente."
+                },
+                {
+                    "header": "STAM",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "sliderPNG": ["img/stam/STAM.jpg"],
+                    "text":"[HTML, CSS, JavaScript, PHP | Webapp]<br><br>Die Aufgabe im Seminar „Modellierung und digitale Karten“ war es, eine beliebige digitale Karte zu erschaffen. Im Seminar haben wir uns mit unterschiedlichen Karten beschäftigt und grundlegend Konzepte besprochen.<br><br>       In meiner Gruppe waren alle sehr an Hip-Hop und Streetart interessiert, und ich habe auch selbst eine Zeit lang Graffitis gesprüht. Aus diesem Grund beschlossen wir, uns auf die Entwicklung einer Karte zu konzentrieren, die die Verbindung zwischen Streetart und urbaner Geografie darstellt.<br><br>        Die Webapp soll auf einer Karte von Köln Standorte von Graffitis anzeigen, die dann per Klick mit Bild, Lokation und einem Steckbrief angezeigt werden. Hierbei sollen Nutzer der App die Möglichkeit haben, eigene Bilder von Graffitis hochzuladen und zu diesen Bildern einen Steckbrief auszufüllen. Die Webapp extrahiert dann die GPS-Daten aus den Bildern, speichert diese mit ab, wodurch das neu hochgeladen Graffiti auf der Karte anzeigt und das Bild mit Steckbrief abgerufen werden kann.<br><br> Meine Hauptaufgaben umfassten die Ideenfindung, die Konzeptentwicklung, die Funktionsweise der Webseite sowie das Sammeln und Einpflegen der Daten (Graffitis)."
+                },
+                {
+                    "header": "Nora In A Dolls House - interaktives VR-Theater",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/ivz8cNRgv0Y?si=Swzw5oHH6nRUN7eY",
+                    "sliderPNG": null,
+                    "text":"[Unity | Android | VR-App für das Googlecardboard]<br><br>Ziel des Projektes war es, das Theaterstück bzw. die Geschichte „Nora – A Dolls House“ in eine VR-Umgebung (Virtual Reality) zu transformieren. Herausforderung war, dass es das Theaterstück  unterschiedlichen Versionen gibt, bei denen das Ende jeweils voneinander abweicht. Wir bekamen zwei Versionen der Geschichte, den Ursprungstext und eine Version, mit einem unterschiedlichen Ende im Vergleich zu, Ursprungstext. Die Aufgabe war es, mit der VR-Umgebung die Geschichte interaktiv zu gestallten. Hierzu entschieden wir uns, Mini-Spiele zu entwickeln, die im System verschiedene Szenarien und Ausgänge simulieren. Anforderung an das Projekt war, dass das Endergebnis bzw. unsere VR-Umgebung mit Hilfe eines Googlecardboards nutzbar ist. Für die Umsetzung des Projektes haben wir die Unity-Engine verwendet.<br><br>       Meine Hauptaufgaben umfassten die Programmierung des Verhaltens in der VR-Umgebung, das Designen der integrierten Mini-Spiele, die Koordination des Projektes, das Integrieren der Arbeiten meiner Gruppenmitglieder und die Umsetzung der männliche Sprecherstimme im System."
+                },
+                {
+                    "header": "Living the Rave - Podcast",
+                    "audioSource" : "audiosources/Podcast_LivingTheRave.mp3",
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[Audacity | MP3]<br><br>Die Aufgabe des Seminars „Podcast und dokumentarisches Audio“ war es, eine eigene Podcast Episode zu erstellen, den wir nach unseren eigenen Interessen gestallten konnten.<br><br>     Wir haben uns für einen Podcast über die Elektroscene in Köln entschieden, da uns diese begeistert und ich diese Musik auf viel in meiner Freizeit höre. Die Idee war es, jemanden mit dem Mikrofon zu begleiten und seine Eindrücke zu sammeln, der noch nie auf einem Rave war.<br><br>      Meine Hauptaufgaben waren es, beim Skript mitzuschreiben, Interviews aufzunehmen und abschließend die Tonspuren für die finale Episode zu schneiden."
+                },
+                {
+                    "header": "Gary Come Home - Ein Spongebob jump 'n run",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/Ix8sA3x4ZnE?si=h-4QAAyvtXV7B_gj",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | Computerspiel]<br><br>Die Aufgabe des Seminars „Computerspiele“ war es, im Verlauf des Semesters unter dem Motto „Twist“ ein Computerspiel zu entwickeln. <br><br>      Meine Idee war es ein „Jump ‘n Run“-Spiel zu entwickeln, bei dem sich im Verlauf des Spiels die Gravitation und somit die Steuereigenschaften ändern. Meine geschätzte Kommilitonin Elif Ada Ayaz hatte zusätzlich die Idee, ein Spiel über SpongeBob zu machen. Wir schlossen uns mit drei weiteren Kommilitonen zusammen und entwickelten das Computerspiel „GaryComeHome“.<br><br>        Meine Hauptaufgaben waren es, die Idee und Level Design des Spiels zu entwickeln, die Programmierung, die Integration der Komponenten meiner Gruppenmitglieder, das Erstellen der 2D-Animationen und die Teamleitung. "
+                }
+            ]
+        },
+        {
+            "titel":"Private Projekte",
+            "content":[
+                {
+                    "header": "Felix Vampiere Adventure",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/Li-JfFtyNH4?si=NE3kCtKDGoPvT1ko",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | Computerspiel]<br><br>Dieses Spiel war mein privates Covid-Projekt. Als ich mit Covid-19 infiziert war, hatte ich zum Glück keinen schweren Symptomen, jedoch durfte ich das Haus nicht verlassen, weshalb ich Tag und Nacht an diesem Projekt gearbeitet habe. Ich habe das komplette Spiel alleine und in 7 Tagen entwickelt. Nur die lizenzfreie Musik wurde aus dem Internet geladen und integriert.<br><br>      Auslöser für das Spiel war ein Anruf meines Freundes, der nachfragen wollte wie es mir geht. Irgendwann meinte Felix dann: ‚Mach doch einfach mal ein Spiel über Knoblauch!‘ So erstellte ich das Spiel-Konzept, bei dem sich der Avatar mit seinem Knoblauch-Atem vor angreifenden Vampiren verteidigen kann."
+                },
+                {
+                    "header": "Klick IT",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/_MxyWe3SW1c?si=B9uRtngOA2aV9q4j",
+                    "sliderPNG": null,
+                    "text":"[Unity | Android | Game-App]<br><br>Bei „Klick IT“ handelt es sich um ein kleines Handy-Spiel, bei dem man auf Asteroiden klicken muss, um die Erde zu beschützen. Es ist eine Art Prokrastinations-Projekt, da mir die Idee kam, während ich an meinem Bachelor-Projekt gearbeitet habe. Da ich viel geschafft hatte und auch kurz mal an etwas anderem arbeiten wollte, habe ich eine dreitägige Pause gemacht. In dieser Zeit habe ich das komplette Spiel erstellt. Alles ist von mir gemacht bis auf die Musik. "
+                },
+                {
+                    "header": "Diese Webseite :)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[HTML, CSS, JavaScript, JSON | Webapp]<br><br> Diese Webseite habe ich erstellte, um meine Projekte zu sammeln und anderen einen Eindruck von mir und meinem aktuellen Portfolio zu verschaffen. Der Style der Webseite soll  meinen Cartoon-artigen Zeichenstil und auch meine fröhliche Art und Weise widerspiegeln. <br><br> Diese Webseite ist nicht die modernste, hat keine speziellen Designs oder Features, jedoch ist alles, was sie sehen von mir selbst erstellt, ohne vorgefertigte Baukästen. Die HTML-, CSS-, JavaScript- und JASON- Dateien sind alle von Grund auf von mir selbst geschrieben."
+                },
+                {
+                    "header": "Meine Anfänge - Scratch",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[Scratch | Mini-Games]<br><br> Im Jahr 2013 habe ich in der Schule während einer Projektwoche den Kurs „Computerspiele mit Scratch erstellen“ gewählt, bei dem wir innerhalb einer Woche ein Spiel entwickeln mussten. Dafür arbeiteten wir mit der Software ‚Scratch‘, die Kindern ein Verständnis das Programmieren näherbringt. Da ich davon begeistert war, habe ich angefangen, nach der Schule meine eigenen Spiele mit Scratch zu entwickeln. Ich habe zum Beispiel versucht, mein damaliges Lieblingsspiel ‚The binding of Isaac‘ in Scratch „nachzuprogrammieren“.<br><br>  Meine ersten Schritte und Spiele finden Sie unter dem folgenden Link: <a href='https://scratch.mit.edu/users/PressSpaceGames/' class='link'>https://scratch/users/PressSpaceGames/</a> "
+                }
+                
+            ]
+        },
+        {
+            "titel":"Ehrenamtliche Projekte",
+            "content":[
+                {
+                    "header": "Jugendaustausch Griechenland (Leitung)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/griechenland/IMG_0222.jpg",
+                                  "img/griechenland/IMG_0227.jpg",
+                                  "img/griechenland/IMG_0294.jpg"
+                                 ],
+                    "text":"2023 wurde ich gefragt, ob ich Teil der Leitung für einen Deutsch-Griechischen-Jungenaustauschs sein möchte. Da ich viel Spaß an der Arbeit mit Jugendlichen habe und mich besonders der Aspekt des Herausfindens und Integrierens kultureller Unterschiede interessiert, habe ich der Anfrage zugestimmt und bin seit dem Bestandteil der Projektleitung.<br><br>       Im September 2023 fand ein erster Fachkräfte-Austausch vor Ort statt. Hierfür ist das Kölner Team für eine Woche nach Griechenland geflogen, um die Partner-Organisation und Lokationen kennenzulernen und erste Eindrücke zu sammeln. Wir haben die griechische Kultur kennengelernt und zusammen mit dem Team der Partner-Organisation ein Konzept für die internationale Jugendbegegnung im Jahr 2024 ausgearbeitet.<br><br>        Meine Hauptaufgaben werden es sein, Teambuilding-Aktivitäten zu entwickeln und diese mit den Teilnehmenden durchzuführen, als Ansprechpartner für die teilnehmenden Jugendlichen zu agieren und die Reise medial zu dokumentieren. "
+                },
+                {
+                    "header": "Create your game - Workshop für Kinder und Jugendliche",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"Ich habe Spaß daran, mein erlerntes Wissen an junge Jugendliche weiterzugeben. In der Familienwerkstatt, in der ich auch sonst freiwillig sozial tätig bin, biete ich einen Kurs an, in dem ich Kindern ab 12 Jahren beibringe, ihre erstes eigenes Computerspiel zu entwickeln. Ich versuche, ihnen bei der Konzeption und Entwicklung Tipps zu geben, die ich früher selbst gerne gewusst hätte, und sie für meine Leidenschaft zu begeisterten. Hierbei versuche ich, spielerisch Konzepte der Programmierung zu vermitteln. Im Kurs verwende ich die Software ‚Scratch‘.<br><br>   Der Kurs ist einmal in der Woche, geht sechs Wochen lang und beim Letzten Treffen präsentieren die Kinder ihre Spiele Freunden und Familie."
+                },
+                {
+                    "header": "HöVi-Land",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                     "sliderPNG": ["img/hoevi/Kinder.jpg",
+                                  "img/hoevi/hoeviplan.jpg",
+                                  "img/hoevi/buehne.jpg",
+                                  "img/hoevi/jpg.jpg",
+                                  "img/hoevi/Leiter.jpg",
+                                  "img/hoevi/hoeviAbbau.jfif"
+                                 ],
+                    "text":"HöVi-Land (für die Bezirke HÖhenberg und VIngst) ist eine Organisation, die sich seit 30 Jahren der Sommerkinderbetreuung widmet und jährlich in den ersten drei Wochen der Sommerferien von Montag bis Freitag ( 9 bis 17 Uhr) ein umfassendes Programm für Kinder anbietet. Zu den Aktivitäten gehören kreative Workshops, unterhaltsame Shows und bereichernde Tagesausflüge für bis zu 500 Kindern. Das Alter der Kinder liegt zwischen 6 und 15 Jahren, nach dem 16ten Lebensjahr kann man nur noch als „Teamer“ bzw. Betreuer teilnehmen.<br><br>Das Angebot richtet sich an Familien, die aufgrund beruflicher Verpflichtungen oder finanzieller Engpässe keinen Urlaub machen können. <br><br>Von 2020 bis 2023 war ich Mitorganisator dieses Events. Meine Aufgaben waren unter anderem die Schulung der neuen Teamer zu gestalten und inhaltliche Entscheidungen für das Event mit zu treffen. Ich habe beispielsweise 16 bis 20 Jährigen beigebracht, wie man mit Kindern umgeht und mit ihnen Teambuilding-Einheiten durchführt. Zudem war ich während der Sommercamps ein Vermittler für die fünf Haupt-Organisatoren und Ansprechpartner für 60 Teamer. Ich habe den Teamern Informationen der Leitung weitergeleitet und andererseits ihre Probleme weitergegeben bzw. diese direkt gelöst. Zusätzlich habe ich mit zwei weiteren Teamern eine Gruppe von bis zu 25 Kinder betreut.<br><br>Für einen kurzen Einblick klicken sie auf folgenden Link: <a href='https://www.facebook.com/watch/?v=599921231435139' class='link'>https://www.facebook.com/watch/</a>"
+                },
+                {
+                    "header": "Jungendbegegnung Südafrika (Teilnehmer)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/suedafrika/1362.jpg",
+                                  "img/suedafrika/1.jpg",
+                                  "img/suedafrika/736.jpg",
+                                  "img/suedafrika/1452.jpg",
+                                  "img/suedafrika/1577.jpg",
+                                  "img/suedafrika/1408.jpg"
+                                 ],
+                    "text":"Im Jahr 2019 war ich Teilnehmer einer eineinhalbmonatigen Jugendbegegnung in Südafrika. Wir haben eine Gruppe südafrikanischer Jugendlicher und ihre Kultur kennengelernt. Darauf basierend bekamen wir die Aufgabe, zusammen ein Konzept zu entwickeln, um Kinder und Schüler in Südafrika zu betreuen. Das Thema der Einheiten war „Role model“. Nach der Fertigstellung unserer Konzepte sind wir in Südafrika zu unterschiedlichen Schulen gefahren und haben unser Programm mit bis zu 150 Kinder vorgestellt und mit den Schülern durchgeführt. <br><br> Besonders prägend waren die Tage, die ich zusammen mit Sizwe in seinem Township (Winterton) gelebt habe. Ich habe viel über die Lebensart der südafrikanischen Menschen und viel über meine Privilegien gelernt."
+                }
+            ]
+        }
+    ],
+    
+    "textEN":[
+        {
+            "titel":"About Me",
+            "content":[
+                {
+                    "header": "<Hello World!>",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"I am Tim Schäfer, 23 years old, I am currently studying media computer science  at the University of Cologne and will  finish my studies in June 2024.<br><br> Outside of my studies, I have been volunteering at the ecumenical Familienwerkstatt Neu-HöVi for five years, where I help organize and run events for children/young people. In a current project, I am working on a youth exchange in Greece. In 2023, I was already on site and got to know the partner organization and we worked out a concept together.<br><br>After leaving school, I completed a BFD and spent a month and a half in South Africa. There I planned and carried out projects for children together with South African young people. Through my studies I have the basics of the programming language 'JAVA' and because I program computer games in my spare time I also have basic knowledge of the programming language 'C#'.<br><br> In my spare time I pursue many creative projects and try my hand at video editing, drawing, sound editing, music production, website design and programming/designing computer games."
+                },
+                {
+                    "header": "Note",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "sliderPNG": null,
+                    "text":"My last name 'Schäfer' literally has the translation 'Shepherd'. Just to make sure that the concept of the website is understood ;)"
+                }
+            ]
+        },
+        {
+            "titel":"University projects",
+            "content":[
+                {
+                    "header": "Digital Flattheatre - My bachelor project",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/YzjyevCtdVQ?si=CFckS-lSGICfKPBq",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | research software]<br><br>This research software system has been developed as part of my Bachelor's thesis 'BLA BLA' – supervised by Prof. Dr. O. Eide and E. Türkoglu.This systems allows to contextualize real models of theater scenery stages in a three-dimensional space with the ability to view the model from different perspectives and the option of adjusting different lighting conditions.The data / models in the systems to create the example sceneries have been provided by C. Lautenschlaeger from the Theaterwissenschaftliche Sammlung (TWS, University of Cologne). The system was developed with the Unity-engine."
+                },
+                {
+                    "header": "Mixed Up Museum",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/GKHINn_tpnY?si=yXpRYlg872EXpDOK",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows | Serious Game]<br><br>    The computer game ‚Mix Up Museum‘ was developed as part of the seminar “‘That belongs in a museum!‘ - Creating Archaeogames from idea to release”. The aim of the game is to convey archaeological content in a playful way by turning an entire museum “upside down” and having the players act as night watchmen to restore the old order.<br><br>        The challenge was to develop a game in collaboration with archaeology students that conveys authentic knowledge and realistically depicts the life of archaeologists. A conscious effort was made to ensure an accurate portrayal, in contrast to games such as Tomb Raider, which often misrepresent archaeological practices.<br><br>      My main tasks included designing the game concept, programming in three-dimensional space, assembling / Integrating the work of my group members and designing the 2D elements."
+                },
+                {
+                    "header": "STAM - Streetartmap",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/stam/STAM.jpg"],
+                    "text":"[HTML, CSS, JavaScript, PHP| Webapp]<br><br> This web app is the result of an assignment  in the seminar 'Modeling and digital maps'. The task was to create a digital map after we had looked at different maps and discussed basic concepts during the seminar. Everyone in my group was very interested in hip-hop and street art, and I sprayed graffiti myself for a while. For this reason, we decided to focus on developing a map that shows the connection between street art and urban geography. <br><br>        The web app will show graffiti locations on a map of Cologne, which can then be displayed with a picture, location and a profile with a click. Users of the app will be able to upload their own pictures of graffiti and fill in a profile for these pictures. The web app then extracts the GPS data from the images and saves it, allowing the newly uploaded graffiti to be displayed on the map and the image and profile to be retrieved.<br><br> My main tasks included the brainstorming and shaping of the idea, development of concept and functioning of the website as well as collecting and entering the data (graffiti)"
+                },
+                {
+                    "header": "Nora In A Dolls House - interactive VR-Theatre",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" :"https://www.youtube.com/embed/ivz8cNRgv0Y?si=Swzw5oHH6nRUN7eY",
+                    "sliderPNG": null,
+                    "text":"[Unity | Android | VR-App for Googlecardboard]<br><br>    The aim of the project was to transform the play or story 'Nora - A Dolls House' into a VR environment (virtual reality). The challenge was that there are different versions of the play, each with a different ending. The task was to use the VR environment to make the play interactive. To do this, we decided to develop mini-games that simulate different scenarios and outcomes in the system. The requirement for the project was that the end result or our VR environment could be used with the help of a Google Cardboard. We used the Unity engine to implement the project. <br><br>       My main tasks included programming the behavior in the VR environment, designing the integrated mini-games, coordinating the project and the work of my group members and implementing the male speaker voice in the system."
+                },
+                {
+                    "header": " Living the Rave - Podcast",
+                    "audioSource" : "audiosources/Podcast_LivingTheRave.mp3",
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[Audacity | MP3]<br><br>    The task of the 'Podcast and documentary audio' seminar was to create our own podcast episode that we could design according to our own interests.<br><br>      We decided on a podcast about the electro scene in Cologne because we are passionate about it and I listen to this music a lot in my free time. The idea was to accompany someone who has never been to a rave with a microphone and gather their impressions.<br><br>     My main tasks were to help write the script, record interviews and finally edit the soundtracks for the final episode. "
+                },
+                {
+                    "header": "Gary Come Home - A Spongebob jump 'n run",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/Ix8sA3x4ZnE?si=h-4QAAyvtXV7B_gj",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows |  Computergame]<br><br>    The task of the 'Computer Games'' seminar was to develop a computer game over the course of the semester under the motto 'Twist'. <br><br>     My idea was to develop a 'Jump 'n Run' game in which the gravity and thus the control characteristics change during the course of the game. My appreciated fellow student Elif Ada Ayaz also had the idea of making a game about SpongeBob. We teamed up with three other fellow students and developed the computer game 'GaryComeHome'.<br><br>     My main tasks were to develop the idea and level design of the game, programming, integrating the components of my group members, creating the 2D animations and managing the team. "
+                }
+            ]
+        },
+        {
+            "titel":"Privat projects",
+            "content":[
+                {
+                    "header": "Felix Vampiere Adventure",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/Li-JfFtyNH4?si=NE3kCtKDGoPvT1ko",
+                    "sliderPNG": null,
+                    "text":"[Unity | Windows |  Computergame]<br><br>   This game was my private Covid project. When I was infected with Covid-19, I fortunately didn't have any severe symptoms, but I wasn't allowed to leave the house, so I worked day and night on this project. I developed the entire game on my own in 7 days. Only the royalty-free music was downloaded from the Internet and integrated.<br><br>      The game was triggered by a phone call from my friend, who wanted to ask how I was doing . At some point, Felix said: 'Just make a game about garlic!' So I created the game concept, in which the player's avatar can defend itself from attacking vampires with its garlic breath."
+                },
+                {
+                    "header": "Klick IT",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : "https://www.youtube.com/embed/_MxyWe3SW1c?si=B9uRtngOA2aV9q4j",
+                    "sliderPNG": null,
+                    "text":"[Unity | Android | Game-App]<br><br>    “Klick IT” is a little mobile game where you have to click on asteroids to protect the earth. It's a kind of procrastination project, as the idea came to me while I was working on my Bachelor's project. As I had a lot to do and wanted to work on something else for a while, I took a three-day break. During this time, I created the entire game. Everything was done by me except for the music."
+                },
+                {
+                    "header": "This Webpage :)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[HTML, CSS, JavaScript, JSON | Webapp]<br><br> I created this website to collect my projects and to give others an impression of me and my current portfolio. The style of the website should reflect my cartoon-like drawing style and also my cheerful beenig.  This website is not the most modern, has no special designs or features, but all the web pages were created entirely by me, without the help of web site construction kits and prefabricated components. The HTML-, CSS-, JavaScript- and JASON-files are all written from scratch by myself."
+                },
+                {
+                    "header": "My beginnings - Scratch",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"[Scratch | Mini-Games]<br><br>   In 2013, during a project week at school, I chose the course 'Creating computer games with Scratch', in which we had to develop a game within a week. We worked with the 'Scratch' software, which gives children an understanding of programming. As I was enthusiastic about it, I started to develop my own games with Scratch after school. For example, I tried to 'reprogram' my favorite game at the time, 'The binding of Isaac', in Scratch. You can find my first steps and games under the following link: <a href='https://scratch.mit.edu/users/PressSpaceGames/' class='link'>https://scratch/users/PressSpaceGames/</a> "
+                }
+                
+                
+            ]
+        },
+        {
+            "titel":"Voluntary projects",
+            "content":[
+                {
+                    "header": "Youth Exchange Greece (co-organizer)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/griechenland/IMG_0222.jpg",
+                                  "img/griechenland/IMG_0227.jpg",
+                                  "img/griechenland/IMG_0294.jpg"
+                                 ],
+                    "text":"In 2023, I was asked if I would like to be part of the management team for a German-Greek youth exchange. As I enjoy working with young people and am particularly interested in the aspect of finding out about and integrating cultural differences, I agreed to the request and have been part of the project management team ever since. <br><br>       In September 2023, the first exchange of experts took place on site. The Cologne team flew to Greece for a week to get to know the partner organization and locations and to gather initial impressions. We got to know the Greek culture and worked with the partner organization's team to develop a concept for the international youth exchange in 2024. <br><br> My main tasks will be to develop and coordinate team-building activities and carry them out with the participants, to act as a contact person for the young people taking part and to document the exchange."
+                },
+                {
+                    "header": "Create your game - Workshop for children and teenagers",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": null,
+                    "text":"I enjoy passing on the knowledge I have learned to young people. In the parish where I also do other voluntary social work, I offer a course in which I teach children aged 12 and over how to develop their first computer game. I try to give them tips on conception and development that I would have liked to have known myself in the past and to get them excited about my passion. I try to teach programming concepts in a fun way. In the course I use the software 'Scratch'.<br><br>    The course is once a week for six weeks and at the last meeting the children present their games to friends and family."
+                },
+                {
+                    "header": "HöVi-Land",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/hoevi/Kinder.jpg",
+                                  "img/hoevi/hoeviplan.jpg",
+                                  "img/hoevi/buehne.jpg",
+                                  "img/hoevi/jpg.jpg",
+                                  "img/hoevi/Leiter.jpg",
+                                  "img/hoevi/hoeviAbbau.jfif"
+                                 ],
+                    "text":"HöVi-Land (for the districts HÖhenberg and VIngst)is an organization that has been dedicated to summer childcare for 30 years and offers a comprehensive program for children every year during the first three weeks of the summer vacations from Monday to Friday (9 am to 5 pm). Activities include creative workshops, entertaining shows and enriching day trips for up to 500 children. The age of the children is between 6 and 15 years, after the age of 16 you can only participate as a 'teamer' or supervisor.<br><br>The offer is aimed at families who are unable to take a vacation due to work commitments or financial constraints. <br><br> From 2020 to 2023, I was co-organizer of this event. My tasks included training the new teamers and helping to make decisions about the content of the event. For example, I taught 16 to 20-year-olds how to deal with children and how to carry out team-building units with them. During the summer camps, I was also a mediator for the five main organizers and the contact person for 60 teamers. I passed on information from the management to the teamers and also passed on their problems or solved them directly. I also supervised a group of up to 25 children with two other teamers.<br><br>For a brief insight, click on the following link: <a href='https://www.facebook.com/watch/?v=599921231435139' class='link'>https://www.facebook.com/watch/</a>"
+                },
+                {
+                    "header": "Youth exchange South Africa (participants)",
+                    "audioSource" : null,
+                    "videoSource" : null,
+                    "videoLinkSource" : null,
+                    "sliderPNG": ["img/suedafrika/1362.jpg",
+                                  "img/suedafrika/1.jpg",
+                                  "img/suedafrika/736.jpg",
+                                  "img/suedafrika/1452.jpg",
+                                  "img/suedafrika/1577.jpg",
+                                  "img/suedafrika/1408.jpg"
+                                 ],
+                    "text":"In 2019, I took part in a one-and-a-half-month youth exchange in South Africa. We got to know a group of South African young people and their culture. Based on this, we were given the task of developing a concept together to mentor children and pupils in South Africa. The theme of the units was 'Role model'. After completing our concepts, we traveled to different schools in South Africa and presented our program to up to 150 children and carried it out with the pupils. <br><br>The days I spent living with Sizwe in his township (Winterton) were particularly formative. I learned a lot about the way of life of South African people and a lot about my privileges."
+                }
+            ]
+        }
+    ]
+}

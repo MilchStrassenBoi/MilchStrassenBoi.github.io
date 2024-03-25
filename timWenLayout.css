@@ -1,0 +1,210 @@
+@font-face {
+    font-family: 'BlueSheep';
+    src: url('font/DKBlueSheep.otf') format('opentype');
+}
+
+html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: 'BlueSheep', sans-serif;
+}
+body {
+ background-image: url("img/TimWebBack.png");
+ background-size: 100%;
+ color: white;
+ background-attachment: fixed;
+}
+nav{
+    background-color: brown;
+    
+    
+}
+div{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+a{
+    color: white;
+}
+table{
+    width: 100%;
+    height: 100%;
+}
+h2{
+    font-size: 3vw;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+.Title{
+    color: black;
+    font-size: 3.5vw;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 36%;
+    margin-left: 32%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+    
+    position: relative;
+    
+    
+}
+.image-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.link{
+    text-decoration: underline;
+}
+.Context{
+    color: white;
+    background-color: sandybrown;
+    
+    margin-top: 25px;
+    margin-left: 20%;
+    width: 60%;
+
+    padding: 10px;
+    
+    border-radius: 10px;
+    
+    background-image: url(img/WoodBack.png);
+    background-size: 100%;
+    
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    
+}
+.banner{
+    width: 100%;
+    float: none;
+}
+.menu{
+    text-align: center;
+}
+.menulink{
+    font-size: 2vw;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 10px; 
+}
+.moveDiv {
+    width: 15%;
+    height: 300px;
+    position: absolute; 
+    border-radius: 20px;
+    background-color: aliceblue;
+    font-size: 0.8em;   
+    
+    background-image: url(img/WoodBack.png);
+    background-size: 100%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.titleImg{
+    width: 100%;
+}
+.image-wrapper {
+  display: inline-block;
+  position: relative;
+}
+.image-wrapper img {
+  display: block;
+  margin: 0 auto;
+}
+.sprachButton {
+  position: relative;
+}
+.audiosource{
+    width: 60%;
+}
+.videosource{
+    height: 27vw;
+    width: 45vw;
+    border-radius: 20px;
+}
+.paragrahText{
+    background-color: rgba(0, 0, 0, 0.75); 
+    border-radius: 10px; 
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    text-align: justify;
+    font-size: 1.5vw; 
+    
+}
+.paraDivClass{
+    width: 90%;
+    padding-left: 5%;
+}
+.slider-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 90%;
+  margin-left: 5%;  
+}
+.single-slider-container{
+    width: 40%;
+    padding-left: 30%;  
+}
+
+.slider-item {
+  width: 100%;
+  padding-bottom: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.single-slider-item{
+    width: 50%;
+    padding-left: 25%;
+}
+
+.slider-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+button{
+    text-align: center;
+    border: none;
+}
+
+
+#buttonDE, #buttonEN {
+  position: absolute;
+  top: 0;
+    height: 3.5vw;
+    width: 5vw;
+}
+
+#buttonDE {
+  right: 0;
+  width: 5%;
+    background-image: url(img/GermanFlag.png);
+    background-size: 100% 100%;
+    
+}
+
+#buttonEN {
+  right: 5%; /* Adjust the value to set the desired spacing between the two buttons */
+    background-image: url(img/EnglischFlag.png);
+    background-size: 100% 100%;
+   
+}

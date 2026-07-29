@@ -8,7 +8,7 @@
           "audioSource": null,
           "videoSource": null,
           "videoLinkSource": null,
-          "sliderPNG": null,
+          "sliderPNG": ["img/TimIMG.png"],
           "text": "Ich bin Tim Schäfer, 26 Jahre alt, studiere momentan M.A. Game Design am Cologne Game Lab und beende mein Studium im Januar 2027. Während meines Bachelorstudiums und bereits seit einigen Jahren programmiere ich Videospiele und bin deshalb sehr stolz darauf, einen Platz im Masterstudium bekommen zu haben und meine Passion weiter vertiefen zu können.<br><br>Zuvor habe ich im Juni 2024 meinen Bachelorabschluss in Medieninformatik absolviert.<br><br>Außerhalb meines Studiums engagiere ich mich seit acht Jahren ehrenamtlich bei der ökumenischen Familienwerkstatt Neu-HöVi, wo ich Veranstaltungen für Kinder und Jugendliche mitorganisiere und durchführe. In meinem letzten Projekt arbeite ich an einer Jugendbegegnung in Griechenland mit. 2023 war ich Teil des Teams, das die Partnerorganisation kennengelernt und gemeinsam ein Konzept ausgearbeitet hat. 2024 und 2026 habe ich anschließend die Hin- und Rückbegegnungen mitorganisiert und durchgeführt.<br><br>Nach meinem Schulabschluss habe ich einen BFD absolviert und war für eineinhalb Monate in Südafrika. Dort habe ich zusammen mit südafrikanischen Jugendlichen Projekte für Kinder geplant und durchgeführt.<br><br>Durch mein Studium besitze ich Grundlagen in den Programmiersprachen „Java“, „C#“ und „C++“.<br><br>In meiner Freizeit gehe ich vielen kreativen Projekten nach und probiere mich in den Bereichen Videoschnitt, Zeichnen, Tonbearbeitung sowie Musikproduktion aus."
 
         }
@@ -269,7 +269,7 @@
           "audioSource": null,
           "videoSource": null,
           "videoLinkSource": null,
-          "sliderPNG": null,
+          "sliderPNG": [ "img/TimIMG.png" ],
           "text": "My name is Tim Schäfer, I am 26 years old, and I am currently studying M.A. Game Design at the Cologne Game Lab. I will complete my studies in January 2027. During my Bachelor's studies and for several years already, I have been programming video games and am therefore very proud to have been accepted into the Master's program and to further deepen my passion.<br><br>Previously, I completed my Bachelor's degree in Media Informatics in June 2024.<br><br>Outside of my studies, I have been volunteering for eight years at the ökumenische Familienwerkstatt Neu-HöVi, where I help organize and carry out events for children and young people. In my latest project, I am working on a youth exchange program in Greece. In 2023, I was part of the team that got to know our partner organization and developed a concept together with them. In 2024 and 2026, I then helped organize and carry out both the outgoing and return exchanges.<br><br>After finishing school, I completed a Federal Voluntary Service (BFD) and spent one and a half months in South Africa. There, I planned and carried out projects for children together with South African teenagers.<br><br>Through my studies, I have gained fundamental knowledge of the programming languages „Java“, „C#“, and „C++“.<br><br>In my free time, I pursue many creative projects and explore areas such as video editing, drawing, sound design, and music production."
         },
         {

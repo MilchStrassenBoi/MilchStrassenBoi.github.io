@@ -24,41 +24,39 @@ xhr.onload = function() {
     }else{
         textItems = response.textEN;  
        }
-    //Navi erstellen
-      
-    const moveDiv = document.getElementById('moveDiv');
-    const table = document.createElement('table');
-    table.id = 'navi';
-      
-    let titleCounter = 0;  
-      textItems.forEach(function(item) {
-            const row = document.createElement('tr');
-            const cell = document.createElement('td');
-            cell.className = 'menu';
+// Navi erstellen
+const moveDiv = document.getElementById('moveDiv');
+const table = document.createElement('table');
+table.id = 'navi';
 
-            const link = document.createElement('a');
-            link.className = 'menulink';
-            link.textContent = item.titel;
-            link.setAttribute('data-title-counter', titleCounter);
-          
-          // Add a click event listener to the link
-            link.addEventListener('click', function() {
-                
-                const titleCounterValue = parseInt(this.getAttribute('data-title-counter'));
-                jumpToSection("section" + titleCounterValue); // Call jumpToSection with the value you want to pass
-                
-            });
-          titleCounter++;
-          //console.log(titleCounter);
+const row = document.createElement('tr'); // Nur eine Zeile erstellen
 
-          cell.appendChild(link);
-          row.appendChild(cell);
-          table.appendChild(row);
+let titleCounter = 0;
 
-      });
-      
-      moveDiv.appendChild(table);
-      main.appendChild(moveDiv);
+textItems.forEach(function(item) {
+    const cell = document.createElement('td');
+    cell.className = 'menu';
+
+    const button = document.createElement('button');
+    button.className = 'menubutton'; // Neue CSS-Klasse
+    button.textContent = item.titel;
+    button.setAttribute('data-title-counter', titleCounter);
+    button.type = 'button'; // Verhindert Submit in Formularen
+
+    button.addEventListener('click', function() {
+        const titleCounterValue = parseInt(this.getAttribute('data-title-counter'));
+        jumpToSection("section" + titleCounterValue);
+    });
+
+    titleCounter++;
+
+    cell.appendChild(button);
+    row.appendChild(cell);
+});
+
+table.appendChild(row);
+moveDiv.appendChild(table);
+
       
       let sectionCount = 0;
       
@@ -203,6 +201,23 @@ function jumpToSection(sectionId){
    var section = document.getElementById(sectionId);
     section.scrollIntoView({ behavior: 'smooth' });
     
+}
+
+const backToTop = document.getElementById("backToTop");
+
+window.addEventListener("scroll", function () {
+    if (window.scrollY > 700) {
+        backToTop.classList.add("show");
+    } else {
+        backToTop.classList.remove("show");
+    }
+});
+
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
 }
 
 
